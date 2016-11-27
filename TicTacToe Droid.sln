@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToe Droid", "TicTacToe Droid\TicTacToe Droid.csproj", "{8E53AC76-7C1E-4D75-A25E-376AA39E810C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToeDroid.Tests", "TicTacToeDroid.Tests\TicTacToeDroid.Tests.csproj", "{5FE3444F-ACB9-40B5-A9B5-D969229CA46E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E53AC76-7C1E-4D75-A25E-376AA39E810C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E53AC76-7C1E-4D75-A25E-376AA39E810C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E53AC76-7C1E-4D75-A25E-376AA39E810C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8E53AC76-7C1E-4D75-A25E-376AA39E810C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E53AC76-7C1E-4D75-A25E-376AA39E810C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E53AC76-7C1E-4D75-A25E-376AA39E810C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{5FE3444F-ACB9-40B5-A9B5-D969229CA46E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FE3444F-ACB9-40B5-A9B5-D969229CA46E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FE3444F-ACB9-40B5-A9B5-D969229CA46E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FE3444F-ACB9-40B5-A9B5-D969229CA46E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
